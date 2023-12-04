@@ -2,37 +2,11 @@
     margin: 0;
     padding: 0;
 }
-.container-principal{
-    width: 500px;
-    height: 100vh;
 
+
+
+.loren{
+    background: greenyellow;
+ 
+    text-align:end;
 }
-div.header{
-background: rgb(255, 38, 0);
-height: 80px;
-text-align: center;
-
-}
-.botones {
-    
-    font-size: 20px;
-}
-
-div img{
-    width: 140px;
-    display: flex;
-    border-radius: 20px;
-   border: solid rgba(255, 255, 255, 0.815) 4px;
-   
-}
-
-.imagenes{
-    /* border: solid red; */
-    display: flex;
-    width: 500px;
-    justify-content:space-between;
-    background: rgba(0, 234, 255, 0.763)
-    
-}
-
-
